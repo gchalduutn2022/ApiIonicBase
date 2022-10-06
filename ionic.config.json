@@ -1,0 +1,7 @@
+{
+  "name": "apiAlejandro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
